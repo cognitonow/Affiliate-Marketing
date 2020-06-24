@@ -1,0 +1,80 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<manifest identifier="_6TBbzxDOmer_course_id" version="1.3" xmlns="http://www.imsglobal.org/xsd/imscp_v1p1" xmlns:adlcp="http://www.adlnet.org/xsd/adlcp_v1p3" xmlns:adlseq="http://www.adlnet.org/xsd/adlseq_v1p3" xmlns:adlnav="http://www.adlnet.org/xsd/adlnav_v1p3" xmlns:imsss="http://www.imsglobal.org/xsd/imsss" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.imsglobal.org/xsd/imscp_v1p1 imscp_v1p1.xsd
+                        http://www.adlnet.org/xsd/adlcp_v1p3 adlcp_v1p3.xsd
+                        http://www.adlnet.org/xsd/adlseq_v1p3 adlseq_v1p3.xsd
+                        http://www.adlnet.org/xsd/adlnav_v1p3 adlnav_v1p3.xsd
+                        http://www.imsglobal.org/xsd/imsss imsss_v1p0.xsd">
+  <metadata>
+    <schema>ADL SCORM</schema>
+    <schemaversion>CAM 1.3</schemaversion>
+    <adlcp:location>metadata.xml</adlcp:location>
+  </metadata>
+  <organizations default="Affiliate_Marketing_ORG">
+    <organization identifier="Affiliate_Marketing_ORG" adlseq:objectivesGlobalToSystem="false">
+      <title>Affiliate Marketing</title>
+      <item identifier="Untitled1_SCO" identifierref="__6TBbzxDOmer_course_id_RES" isvisible="true">
+        <title>Affiliate Marketing</title>
+      </item>
+      <metadata>
+        <adlcp:location>metadata.xml</adlcp:location>
+      </metadata>
+      <imsss:sequencing>
+        <imsss:controlMode choice="true" flow="true" />
+        <imsss:deliveryControls tracked="true" completionSetByContent="false" objectiveSetByContent="false" />
+      </imsss:sequencing>
+    </organization>
+  </organizations>
+  <resources>
+    <resource identifier="__6TBbzxDOmer_course_id_RES" type="webcontent" adlcp:scormType="sco" href="index_lms.html">
+      <file href="story_content/thumbnail.jpg" />
+      <file href="mobile/6kIcIpIwjxl_P_0_0_1999_1125_DX2728_DY2728_CX2000_CY1125.png" />
+      <file href="mobile/6LOUPIN4DF0_DX592_DY592_CX362_CY444.png" />
+      <file href="mobile/6EfEhDaPozi_DX2730_DY2730_CX1512_CY1134.png" />
+      <file href="mobile/6LOUPIN4DF0_DX592_DY592_CX147_CY180.png" />
+      <file href="meta.xml" />
+      <file href="story_content/user.js" />
+      <file href="mobile/txt__default_6O8Wsunszn0.png" />
+      <file href="html5/data/css/output.min.css" />
+      <file href="html5/data/js/5dMDwiCjM2M.js" />
+      <file href="html5/data/js/5emWFuiUjZX.js" />
+      <file href="html5/data/js/5fkaKi0nHZM.js" />
+      <file href="html5/data/js/5g42cm9OA2J.js" />
+      <file href="html5/data/js/5jLVxgATpY8.js" />
+      <file href="html5/data/js/5zmghFVqUcU.js" />
+      <file href="html5/data/js/6bxsjjxV74O.js" />
+      <file href="html5/data/js/6i971HVzT2U.js" />
+      <file href="html5/data/js/6MNm96U8qs2.js" />
+      <file href="html5/data/js/6oa5EeuFGMm.js" />
+      <file href="html5/data/js/6T3odvTVczS.js" />
+      <file href="html5/data/js/data.js" />
+      <file href="html5/data/js/frame.js" />
+      <file href="html5/data/js/paths.js" />
+      <file href="html5/lib/scripts/app.min.js" />
+      <file href="html5/lib/stylesheets/main.min.css" />
+      <file href="html5/lib/stylesheets/mobile-fonts/open-sans-bold.woff" />
+      <file href="html5/lib/stylesheets/mobile-fonts/open-sans-light.woff" />
+      <file href="html5/lib/stylesheets/mobile-fonts/open-sans-regular.woff" />
+      <file href="story.html" />
+      <file href="story_html5.html" />
+      <file href="analytics-frame.html" />
+      <file href="story_content/blank.html" />
+      <file href="story_content/story.js" />
+      <file href="index_lms.html" />
+      <file href="index_lms_html5.html" />
+      <file href="lms/AICCComm.html" />
+      <file href="lms/AICCFunctions.js" />
+      <file href="lms/API.js" />
+      <file href="lms/APIConstants.js" />
+      <file href="lms/blank.html" />
+      <file href="lms/browsersniff.js" />
+      <file href="lms/Configuration.js" />
+      <file href="lms/goodbye.html" />
+      <file href="lms/lms.js" />
+      <file href="lms/LMSAPI.js" />
+      <file href="lms/NONEFunctions.js" />
+      <file href="lms/SCORM2004Functions.js" />
+      <file href="lms/SCORMFunctions.js" />
+      <file href="lms/UtilityFunctions.js" />
+    </resource>
+  </resources>
+</manifest>
